@@ -1,5 +1,5 @@
 # Hello, Vishnu Teja 👋
-<a href="www.linkedin.com/in/vishnu-teja-a83977362"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vishnu-teja-a83977362"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Brief Introduction
 
