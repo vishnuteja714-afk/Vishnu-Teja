@@ -30,7 +30,6 @@ Feel free to reach out about SOC, SecOps, Azure hardening, incident handling, or
 Security Operations & Infrastructure Engineer with 14+ years of hands-on experience in enterprise IT, focusing on 24/7 SOC monitoring, incident response, threat detection, and global infrastructure support in banking, financial services, and technology sectors.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
